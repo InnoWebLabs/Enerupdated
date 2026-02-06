@@ -46,6 +46,14 @@ const panelPortfolioServices = [
   "SDB Panel",
 ];
 
+const plcServices = [
+  "PLC Programming",
+  "HMI Development",
+  "SCADA Systems",
+  "Drive (VFD) Configuration",
+  "PLC Control Panel",
+];
+
 const keyOfferings = [
   "HT & LT Distribution Solutions",
   "HT & LT Distribution Panels",
